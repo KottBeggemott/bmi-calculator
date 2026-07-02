@@ -282,4 +282,15 @@ hr {
     padding: 6px 10px;
     font-size: 12px;
   }
+   .back-button {
+  display: inline-block;
+  margin-bottom: 12px;
+  color: #9ca3af;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.back-button:hover {
+  color: white;
+}
 }
